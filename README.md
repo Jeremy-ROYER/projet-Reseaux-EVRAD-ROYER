@@ -21,6 +21,8 @@ Contenue du projet :
 
 
 Installation et Utilisation :
+	
+	Version Linux, possibilités d'incompatibilité avec d'autres systèmes.
 
 	- Version TCP (lancé le serveur en premier)
 		$ cd ./src_TCP/
